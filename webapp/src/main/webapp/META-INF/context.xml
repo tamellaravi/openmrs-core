@@ -20,7 +20,7 @@
 			url="jdbc:mysql://localhost:3306/openmrs"
 			driverClassName="com.mysql.jdbc.Driver"
 			username="openmrs"
-			password="openmrs"
+			password="Openmrs@1234"
 			maxWait="3000"
 			maxIdle="100"
 			maxActive="10" />
